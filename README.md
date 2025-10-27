@@ -815,9 +815,9 @@ Passionate about solving real-world problems through software engineering. Speci
 
 **Contact Information:**
 - GitHub: [@LuisAlvero](https://github.com/Luisalvero)
-- LinkedIn: [Luis Alvero]([https://www.linkedin.com/in/luis-alvero/])
-- Email: your.luis@empcnet.com
-- Portfolio: [luisalvero.com]([https://yourwebsite.com](https://luisalvero.com/))
+- LinkedIn: [Luis Alvero](https://www.linkedin.com/in/luis-alvero/)
+- Email:luis@empcnet.com
+- Portfolio: [luisalvero.com](https://yourwebsite.com](https://luisalvero.com/)
 
 ---
 
