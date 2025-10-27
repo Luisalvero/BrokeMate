@@ -814,10 +814,10 @@ Passionate about solving real-world problems through software engineering. Speci
 - Concepts: OOP, Data Structures, Algorithms, Design Patterns
 
 **Contact Information:**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [@LuisAlvero](https://github.com/Luisalvero)
+- LinkedIn: [Luis Alvero]([https://www.linkedin.com/in/luis-alvero/])
+- Email: your.luis@empcnet.com
+- Portfolio: [luisalvero.com]([https://yourwebsite.com](https://luisalvero.com/))
 
 ---
 
